@@ -5,6 +5,7 @@ Created on Mon Jan 27 12:49:56 2020
 @author: Jiyuan Zhang
 """
 # %% Load Files 
+#this file is to explore original data
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
  
